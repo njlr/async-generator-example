@@ -6,3 +6,9 @@ This example shows how you can use `async` and `*` on the same function in JavaS
 yarn install
 babel-node index.js
 ```
+
+To see the generated code: 
+
+```bash=
+babel index.js > out.js
+```
