@@ -1,2 +1,6 @@
-# async-generator-example
-🍴🍰
+# async-generator-example 🍴🍰
+
+```bash=
+yarn install
+babel-node index.js
+```

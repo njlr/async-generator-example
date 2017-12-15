@@ -1,0 +1,12 @@
+{
+  "name": "async-generator-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:njlr/async-generator-example.git",
+  "author": "njlr <njlr@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-plugin-transform-async-generator-functions": "^6.24.1"
+  }
+}
